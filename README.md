@@ -1,2 +1,2 @@
-# AB6
-arrays &amp; trajectory
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
